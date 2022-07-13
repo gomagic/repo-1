@@ -1,4 +1,4 @@
-package main
+package aviad_org
 
 import(
 	"fmt"
@@ -7,9 +7,3 @@ import(
 func Print(){
 	fmt.Println("Hello-world-from-pkg-print")
 }
-
-func main(){
-	fmt.Println("Hello-world-from-pkg-main")
-	Print()	
-}
-
