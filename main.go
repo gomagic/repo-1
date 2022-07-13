@@ -5,5 +5,5 @@ import(
 )
 
 func Print(){
-	fmt.Println("Hello-world-from-pkg-print")
+	fmt.Println("Hello-world-from-aviad-org")
 }
