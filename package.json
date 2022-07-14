@@ -1,5 +1,5 @@
 {
-  "name": "org-pkg",
+  "name": "hello_world",
   "version": "1.0.0",
   "description": "This is a silly hello-world go modules project",
   "main": "index.js",

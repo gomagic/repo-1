@@ -1,3 +1,3 @@
-module github.com/aviad-golang/hello_world
+module github.com/gomagic/repo-1
 
 go 1.16

@@ -1,9 +1,9 @@
-package aviad_org
+package aviad
 
 import(
 	"fmt"
 )
 
 func Print(){
-	fmt.Println("Hello-world-from-aviad-org-0.0.4")
+	fmt.Println("Im from remote")
 }
